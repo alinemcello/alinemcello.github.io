@@ -5,9 +5,6 @@
 layout: home
 ---
 
-
-# Portfolio
-
 [alinemcello@gmail.com](mailto:alinemcello@gmail.com)
 
 Sample projects. These are shorter versions of larger courses or side projects.
