@@ -1,3 +1,3 @@
 # Aline Waguespack Claytor
 
-Please visit the [portfolio page](alinemcello.github.io)
+Please visit the [portfolio page](https://alinemcello.github.io)
