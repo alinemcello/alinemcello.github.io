@@ -5,7 +5,9 @@
 layout: home
 ---
 
-## Portfolio
+![.](projects/index_files/blank.png)
+
+# Portfolio
 
 [alinemcello@gmail.com](mailto:alinemcello@gmail.com)
 
